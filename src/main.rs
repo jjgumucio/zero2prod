@@ -1,4 +1,4 @@
 fn main() {
     println!("Hello, world!");
-    let string: &stra = "Hello";
+    let string: &str = "Hello";
 }
